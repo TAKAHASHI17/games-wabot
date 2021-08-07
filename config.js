@@ -1,8 +1,8 @@
-global.DeveloperMode = 'false' //true Or false
+global.DeveloperMode = 'false' 
 global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
-global.owner = ['6281359837041', '6285601993596', '6287888152023']// Put your number here
+global.owner = ['6281359837041', '6285601993596', '6287888152023']
 global.mods = ['6281257735703', '6285821881210'] // Want some help?
-global.prems = [30 day] // Premium user has unlimited limit
+global.prems = []
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
