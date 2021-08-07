@@ -15,4 +15,3 @@ handler.all = async function (m) {
 }
 
 module.exports = handler
-
